@@ -36,4 +36,4 @@ always achieving my goals.
 
 ## **Courses**
 #### *Tester oprogramowania PRO*
-#### *Dare IT «Portfolio Challenge ».*
+#### *Dare IT «Portfolio Challenge »*
