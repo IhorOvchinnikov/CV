@@ -6,6 +6,13 @@ into a professional life. I have many years of experience in e-commerce, working
 analytical mindset helps me to efficiently work with large amounts of information. Hardworking and
 always achieving my goals.
 
+## **Interests**
+Practical experience in creating test documentation;
+Knowledge of theory tests, SDLC and STLC;
+Experience with a range of technologies and tools: Linux Terminal,
+Chrome Development Tools, MS SQL Server, Postman, automated tests.
+Programming: Java basics, SQL queries
+
 ## **Tools**
 
  - Jira - bug tracker 
@@ -37,3 +44,10 @@ always achieving my goals.
 ## **Courses**
 #### *Tester oprogramowania PRO*
 #### *Dare IT «Portfolio Challenge »*
+
+
+## **Languages**
+ - English: intermediate level
+ - Ukrainian: native level
+ - Russian: native level
+ - Polish: average level advanced
